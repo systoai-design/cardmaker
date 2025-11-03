@@ -1,7 +1,7 @@
 {
-  "name": "cardmaker",
+  "name": "SCARDS",
   "version": "1.1.1",
-  "description": "Generate custom cards for trading card games.",
+  "description": "Generate custom cards for YU-GI-OH.",
   "main": "build/index.js",
   "directories": {
     "lib": "lib"
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yemachu/cardmaker.git"
+    "url": "https://github.com/systoai-design/cardmaker.git"
   },
   "keywords": [
     "tcg"
   ],
-  "author": "Yemachu",
-  "license": "MIT",
+  "author": "SCARDS",
+  "license": "SCARDS",
   "bugs": {
-    "url": "https://github.com/yemachu/cardmaker/issues"
+    "url": "https://github.com/systoai-design/cardmaker.git"
   },
-  "homepage": "https://github.com/yemachu/cardmaker#readme"
+  "homepage": "https://github.com/systoai-design/cardmaker/blob/master/README.md"
 }
