@@ -58,7 +58,7 @@ define(["react", "react-class", "./Card", "webfont", "./Checkbox"], function App
 					atk: "0",
 					def: "0",
 					serial: "This card cannot be used in a Duel.",
-					copyright: "© 1993 YEMACHU",
+					copyright: "© 2025 SCARDS",
 					attribute: "None",
 					id: "YCM - EN000",
 					pendulum:
