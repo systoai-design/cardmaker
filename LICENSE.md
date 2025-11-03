@@ -1,8 +1,8 @@
 # License
-The code in [this repository](https://github.com/Yemachu/cardmaker) is released under the MIT license.
+The code in [this repository](https://github.com/systoai-design/cardmaker.git) is released under the MIT license.
 ## MIT License
 
-Copyright © 2018 Yemachu
+Copyright © 2025 SCARDS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
