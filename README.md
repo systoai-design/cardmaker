@@ -1,4 +1,3 @@
-# [Card maker](https://yemachu.github.io/cardmaker/)
 Various trading card games have fans who wish to create their own cards... even if they can only be used among friends. Which would normally require usage of an image editing program. This project aims to lower the barrier for creating fan-made cards by providing templates for some common options.
 
 ## Project structure
