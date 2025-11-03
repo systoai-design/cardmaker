@@ -22,7 +22,7 @@ Since the site works with mostly static content, it should be possible to test i
 This project references some other projects. Cloning it will usually leave the relevant folders empty. The following commands should populate the repository with the relevant files. People more savvy with Git might know better ways to get the same result, but it does its job.
 
 ```bash
-git clone https://github.com/Yemachu/cardmaker.git
+git clone https://github.com/systoai-design/cardmaker.git
 cd cardmaker
 git submodule update --init --recursive
 ```
