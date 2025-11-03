@@ -60,7 +60,7 @@ define(["react", "react-class", "./Card", "webfont", "./Checkbox"], function App
 					serial: "This card cannot be used in a Duel.",
 					copyright: "© 2025 SCARDS",
 					attribute: "None",
-					id: "YCM - EN000",
+					id: "SCARDS - EN000",
 					pendulum:
 					{
 						enabled: true,
@@ -134,7 +134,7 @@ define(["react", "react-class", "./Card", "webfont", "./Checkbox"], function App
 			return e(
 				"div",
 				{
-					className: "cardmaker ygo"
+					className: "cardmaker scards"
 				},
 				e(
 					"div",
