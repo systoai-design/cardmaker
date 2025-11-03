@@ -166,7 +166,6 @@ define(["react", "react-class", "./Card", "webfont", "./Checkbox"], function App
 					e("label", null, "Set id", e("input", { onChange: this.updateField("card.id"), type: "text", value: this.state.card.id })),
 					e("label", null, "Serial number", e("input", { onChange: this.updateField("card.serial"), type: "text", value: this.state.card.serial })),
 					e("button", {onClick: this.randomizeSerialNumber ,className: "ipsButton ipsButton_primary" }, "Randomize"),
-					e("label", null, "Copyright", e("input", { onChange: this.updateField("card.copyright"), type: "text", value: this.state.card.copyright })),
 
 
 					e(
